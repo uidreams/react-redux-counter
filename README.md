@@ -1,3 +1,13 @@
+A simple react-redux boilerplate with counter increment, decrement example.
+
+After clone the repository, run
+
+1. run 'npm install' in console to load all dependencies.
+2. run 'npm start' to up and run in your localhost.
+
+
+================================================================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
